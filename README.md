@@ -1,18 +1,17 @@
 ## Hi there 👋
 ### 🌱 I’m Sergio Andrés Diaz Ariza
-currently Studying _Chemistry_ _Engineer_ 
+####currently Studying _Chemistry_ _Engineer_ 
 
 My Goal understand the **_Chem-World_** and define it in Python.
 
-![Doggy Chem][gif_dog_chem]
-
+![Alt text](https://giphy.com/gifs/fUZHXuE94BN2wtSbUS/html5 "Dogging_Chem")
 
 📫 How to reach me: 
 * seadiazar@unal.edu.co
 * sdiazariza@hotmail.com
 * sa.diaz.ariza@gmail.com
 
-[gif_dog_chem]: https://giphy.com/gifs/fUZHXuE94BN2wtSbUS/html5 "Doggy Chem"
+
 <!--
 **Daz-Riza-Seriog/Daz-Riza-Seriog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,9 +8,9 @@ My Goal understand the **_Chem-World_** and define it in Python.
 
 
 📫 How to reach me: 
-..* seadiazar@unal.edu.co
-..* sdiazariza@hotmail.com
-..* sa.diaz.ariza@gmail.com
+.* seadiazar@unal.edu.co
+.* sdiazariza@hotmail.com
+.* sa.diaz.ariza@gmail.com
 
 [gif_dog_chem]: https://giphy.com/gifs/fUZHXuE94BN2wtSbUS/html5 "Doggy Chem"
 <!--

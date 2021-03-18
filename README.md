@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 🌱 I’m Sergio Andrés Diaz Ariza
-#### Currently Studying _Chemistry_ _Engineer_ 
+#### Currently Student of _Chemistry_ _Engineer_ 
 
 My Goal understand the **_Chem-World_** and define it in Python.
 

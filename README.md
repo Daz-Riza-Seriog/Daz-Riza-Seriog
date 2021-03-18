@@ -1,10 +1,10 @@
 ## Hi there 👋
-🌱 ### I’m Sergio Andrés Diaz Ariza
+### 🌱 I’m Sergio Andrés Diaz Ariza
 currently Studying _Chemistry_ _Engineer_ 
 
 My Goal understand the **_Chem-World_** and define it in Python.
 
-![alt text][gif_dog_chem]
+![Doggy Chem][gif_dog_chem]
 
 
 📫 How to reach me: 

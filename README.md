@@ -4,7 +4,7 @@
 
 My Goal understand the **_Chem-World_** and define it in Python.
 
-![Alt Text](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+<img src='https://media.giphy.com/media/fUZHXuE94BN2wtSbUS/giphy.gif' />
 
 📫 How to reach me: 
 * seadiazar@unal.edu.co
